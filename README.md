@@ -36,7 +36,7 @@ pip install pygame
 ### Display Active Alarms
 ![display_alarm](https://github.com/user-attachments/assets/7130af31-8a51-4791-93f9-2fac37a747a1)
 
-### Deleting Alarms
+### Deleting Alarm
 ![deleting_alarm](https://github.com/user-attachments/assets/7a908666-7db9-46bc-9ce7-a37b057ae271)
 
 ### Snoozing/ Deleting Alarm when alarm stated rining
