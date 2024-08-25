@@ -30,6 +30,18 @@ pip install pygame
 
 ## Sample Screenshots
 
+### Add Alarm
+![adding alarm](https://github.com/user-attachments/assets/d887571c-e1cb-4575-9acd-b116b94a7b65)
+
+### Display Active Alarms
+![display_alarm](https://github.com/user-attachments/assets/7130af31-8a51-4791-93f9-2fac37a747a1)
+
+### Deleting Alarms
+![deleting_alarm](https://github.com/user-attachments/assets/7a908666-7db9-46bc-9ce7-a37b057ae271)
+
+### Snoozing/ Deleting Alarm when alarm stated rining
+![alarm ringing](https://github.com/user-attachments/assets/1ead1642-affa-4013-a916-3415884454c4)
+
 
 ## Usage Instructions
 
