@@ -2,6 +2,19 @@
 
 This Python-based command-line application serves as an interactive alarm clock. It displays the current time, allows users to create and manage alarms, and features snooze functionality. 
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Sample Screenshots](#sample-screenshots)
+4. [Usage Instructions](#usage-instructions)
+   - [Add Alarm](#add-alarm)
+   - [Snooze Alarm](#snooze-alarm)
+   - [Delete Alarm](#delete-alarm)
+   - [Display Alarms](#display-alarms)
+   - [Exit Application](#exit-application)
+
+
 ## Features
 
 - **Display Current Time**: The application continuously displays the current time in the format `HH:MM AM/PM - Day of the Week`.
@@ -19,6 +32,9 @@ You can install the required Pygame library using:
 ```bash
 pip install pygame
 ```
+
+## Sample Screenshots
+
 
 # Usage Instructions
 
