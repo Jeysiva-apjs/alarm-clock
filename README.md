@@ -18,3 +18,33 @@ You can install the required Pygame library using:
 
 ```bash
 pip install pygame
+
+# Usage Instructions
+
+## Add Alarm:
+1. Choose the "Alarm Settings" option.
+2. Select "Add Alarm."
+3. Enter the hour, minute, AM/PM period, and day of the week when prompted.
+4. The new alarm will be added to the list of active alarms.
+
+## Snooze Alarm:
+1. When an alarm rings, press Enter to snooze the alarm.
+2. The alarm will be snoozed for 5 minutes, up to a maximum of 3 times.
+
+## Delete Alarm:
+1. Choose the "Alarm Settings" option.
+2. Select "Delete Alarm."
+3. Choose the alarm you want to delete by entering the corresponding number.
+
+## Display Alarms:
+1. Choose the "Alarm Settings" option.
+2. Select "Display Alarms."
+3. The application will show all currently active alarms.
+
+## Exit Application:
+1. Choose the "Exit" option from the main menu.
+
+## Notes:
+- The alarm sound will play when the set time and day are reached.
+- Ensure that the `alarm_sound.mp3` file is present in the same directory as the script for the alarm sound to play.
+
