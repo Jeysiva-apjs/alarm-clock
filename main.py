@@ -73,6 +73,9 @@ class AlarmClock:
             hour, minute, time_period, day_of_week = self._get_alarm_input()
             if self._validate_alarm_input(hour, minute, time_period, day_of_week):
                 alarm = Alarm(f"{hour:02d}:{minute:02d} {time_period}", day_of_week)
+                if alarm in self._alarms:
+                    print(alarm)
+                    return
                 self._alarms.append(alarm)
                 print(alarm)
         except ValueError:
