@@ -18,6 +18,7 @@ You can install the required Pygame library using:
 
 ```bash
 pip install pygame
+```
 
 # Usage Instructions
 
