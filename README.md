@@ -8,11 +8,6 @@ This Python-based command-line application serves as an interactive alarm clock.
 2. [Requirements](#requirements)
 3. [Sample Screenshots](#sample-screenshots)
 4. [Usage Instructions](#usage-instructions)
-   - [Add Alarm](#add-alarm)
-   - [Snooze Alarm](#snooze-alarm)
-   - [Delete Alarm](#delete-alarm)
-   - [Display Alarms](#display-alarms)
-   - [Exit Application](#exit-application)
 
 
 ## Features
@@ -36,29 +31,29 @@ pip install pygame
 ## Sample Screenshots
 
 
-# Usage Instructions
+## Usage Instructions
 
-## Add Alarm:
+### Add Alarm:
 1. Choose the "Alarm Settings" option.
 2. Select "Add Alarm."
 3. Enter the hour, minute, AM/PM period, and day of the week when prompted.
 4. The new alarm will be added to the list of active alarms.
 
-## Snooze Alarm:
+### Snooze Alarm:
 1. When an alarm rings, press Enter to snooze the alarm.
 2. The alarm will be snoozed for 5 minutes, up to a maximum of 3 times.
 
-## Delete Alarm:
+### Delete Alarm:
 1. Choose the "Alarm Settings" option.
 2. Select "Delete Alarm."
 3. Choose the alarm you want to delete by entering the corresponding number.
 
-## Display Alarms:
+### Display Alarms:
 1. Choose the "Alarm Settings" option.
 2. Select "Display Alarms."
 3. The application will show all currently active alarms.
 
-## Exit Application:
+### Exit Application:
 1. Choose the "Exit" option from the main menu.
 
 ## Notes:
